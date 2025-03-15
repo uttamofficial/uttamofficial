@@ -61,7 +61,8 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=uttamofficial&icon=0&color=0)  
+![Profile Views](https://komarev.com/ghpvc/?username=uttamofficial&color=blue&style=flat-square)
+
 
 ---
 
