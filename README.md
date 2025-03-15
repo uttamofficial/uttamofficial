@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="YOUR_IMAGE_URL" width="200px" alt="About Me Image">
+      <img src="Github_Profile.png" width="200px" alt="About Me Image">
     </td>
   </tr>
 </table>
