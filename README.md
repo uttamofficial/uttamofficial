@@ -37,24 +37,43 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttamofficial&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=uttamofficial&theme=github_dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamofficial&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=uttamofficial&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" height="200px"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=uttamofficial&theme=github_dark&hide_border=false" alt="GitHub Streak" width="400px" height="200px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamofficial&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400px" height="200px"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=uttamofficial&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="400px" height="200px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uttamofficial&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-### 🔝 Top Contributed Repos:
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=uttamofficial&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
----
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=uttamofficial&color=blue&style=flat-square)
+### 🔥 Profile Views  
+
+<a href="#">
+    <img src="https://profile-counter.glitch.me/{uttamofficial}/count.svg" alt="Visitor Count" />
+</a>
+
+</div>
 
 
 ---
@@ -66,3 +85,10 @@
 </picture>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uttamofficial&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+---
