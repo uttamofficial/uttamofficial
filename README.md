@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uttamofficial005) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uttamofficial005)  
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29977574) 
-[![X](https://img.shields.io/badge/X-%23171717.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UttamKumar_005) 
+[![Twitter](https://img.shields.io/badge/X-%23171717.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UttamKumar_005) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamofficial005@gmail.com)  
 
 ---
